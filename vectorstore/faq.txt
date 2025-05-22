@@ -1,0 +1,47 @@
+Q: Quels sont les documents nécessaires pour ouvrir un compte bancaire ?
+R: Pour ouvrir un compte, vous devez fournir une pièce d'identité valide, un justificatif de domicile et un numéro de téléphone.
+
+Q: Quelles sont les heures d'ouverture de la banque ?
+R: Nos agences sont ouvertes du lundi au vendredi, de 8h30 à 16h30.
+
+Q: Comment puis-je consulter mon solde bancaire ?
+R: Vous pouvez consulter votre solde via l'application mobile, en ligne ou en vous rendant en agence.
+
+Q: Quels sont les frais de tenue de compte ?
+R: Les frais sont de 2 DT par mois pour un compte courant standard.
+
+Q: Puis-je ouvrir un compte en devise étrangère ?
+R: Oui, nous proposons des comptes en euros, dollars et autres principales devises.
+
+Q: Proposez-vous des comptes pour étudiants ?
+R: Oui, notre compte étudiant offre des avantages comme la gratuité de la carte bancaire et aucun frais de gestion.
+
+Q: Est-il possible de transférer de l'argent à l'étranger ?
+R: Oui, les transferts internationaux sont possibles via nos services SWIFT ou Western Union.
+
+Q: Quels types de crédits proposez-vous ?
+R: Nous proposons des crédits personnels, crédits immobiliers, crédits auto et prêts étudiants.
+
+Q: Quels sont les taux d’intérêt pour les crédits personnels ?
+R: Le taux actuel est de 7% annuel, variable selon le montant et la durée du crédit.
+
+Q: Que faire en cas de perte de carte bancaire ?
+R: Appelez immédiatement notre centre d’assistance pour bloquer la carte et demander un remplacement.
+
+Q: Peut-on déposer un chèque dans un DAB (Distributeur Automatique de Billets) ?
+R: Oui, certains de nos distributeurs permettent le dépôt de chèques.
+
+Q: Comment modifier mon code secret de carte ?
+R: Rendez-vous dans une agence ou utilisez un guichet automatique compatible.
+
+Q: Puis-je demander un découvert autorisé ?
+R: Oui, un découvert peut être accordé après étude de votre dossier.
+
+Q: Combien de temps faut-il pour obtenir un crédit ?
+R: En moyenne, un crédit personnel est traité sous 48 à 72 heures après validation du dossier.
+
+Q: Quelle est la limite de retrait quotidienne ?
+R: La limite standard est de 1000 DT par jour, mais peut être ajustée sur demande.
+
+Q: Est-ce que l'application mobile est gratuite ?
+R: Oui, notre application est totalement gratuite pour tous les clients.
