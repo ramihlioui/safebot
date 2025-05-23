@@ -10,7 +10,7 @@ app.add_middleware(
     allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
-    allow_headers=["*"],
+    allow_headers=[ "Content-Type"],
 )
 
 class QueryRequest(BaseModel):
@@ -18,5 +18,7 @@ class QueryRequest(BaseModel):
 
 @app.post("/ask")
 def ask(req: QueryRequest):
+    print(req)
     response = answer_query(req.question.strip())
+    print(response)
     return {"question": req.question, "response": response}
